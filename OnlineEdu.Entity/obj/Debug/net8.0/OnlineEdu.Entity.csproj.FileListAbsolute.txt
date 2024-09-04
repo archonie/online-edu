@@ -1,0 +1,14 @@
+C:\Backend\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.deps.json
+C:\Backend\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.runtimeconfig.json
+C:\Backend\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Backend\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.csproj.AssemblyReference.cache
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.AssemblyInfoInputs.cache
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.AssemblyInfo.cs
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.csproj.CoreCompileInputs.cache
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\refint\OnlineEdu.Entity.dll
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.genruntimeconfig.cache
+C:\Backend\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\ref\OnlineEdu.Entity.dll
